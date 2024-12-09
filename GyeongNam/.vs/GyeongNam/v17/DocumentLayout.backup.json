@@ -1,0 +1,114 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\user\\source\\repos\\GyeongNam\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{5DF64162-4DD1-4320-BE84-5DB107C75000}|GyeongNam\\GyeongNam.csproj|c:\\users\\user\\source\\repos\\gyeongnam\\gyeongnam\\childpanel\\commentpanel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{5DF64162-4DD1-4320-BE84-5DB107C75000}|GyeongNam\\GyeongNam.csproj|solutionrelative:gyeongnam\\childpanel\\commentpanel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5DF64162-4DD1-4320-BE84-5DB107C75000}|GyeongNam\\GyeongNam.csproj|c:\\users\\user\\source\\repos\\gyeongnam\\gyeongnam\\finalverfy.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5DF64162-4DD1-4320-BE84-5DB107C75000}|GyeongNam\\GyeongNam.csproj|solutionrelative:gyeongnam\\finalverfy.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5DF64162-4DD1-4320-BE84-5DB107C75000}|GyeongNam\\GyeongNam.csproj|C:\\Users\\user\\source\\repos\\GyeongNam\\gyeongnam\\xprogram.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5DF64162-4DD1-4320-BE84-5DB107C75000}|GyeongNam\\GyeongNam.csproj|solutionrelative:gyeongnam\\xprogram.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5DF64162-4DD1-4320-BE84-5DB107C75000}|GyeongNam\\GyeongNam.csproj|c:\\users\\user\\source\\repos\\gyeongnam\\gyeongnam\\login.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5DF64162-4DD1-4320-BE84-5DB107C75000}|GyeongNam\\GyeongNam.csproj|solutionrelative:gyeongnam\\login.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5DF64162-4DD1-4320-BE84-5DB107C75000}|GyeongNam\\GyeongNam.csproj|C:\\Users\\user\\source\\repos\\GyeongNam\\gyeongnam\\utils\\db.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5DF64162-4DD1-4320-BE84-5DB107C75000}|GyeongNam\\GyeongNam.csproj|solutionrelative:gyeongnam\\utils\\db.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 4,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "DB.cs",
+              "DocumentMoniker": "C:\\Users\\user\\source\\repos\\GyeongNam\\GyeongNam\\Utils\\DB.cs",
+              "RelativeDocumentMoniker": "GyeongNam\\Utils\\DB.cs",
+              "ToolTip": "C:\\Users\\user\\source\\repos\\GyeongNam\\GyeongNam\\Utils\\DB.cs",
+              "RelativeToolTip": "GyeongNam\\Utils\\DB.cs",
+              "ViewState": "AgIAACYAAAAAAAAAAAAnwD8AAAAiAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-18T13:56:46.001Z",
+              "IsPinned": true,
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "XProgram.cs",
+              "DocumentMoniker": "C:\\Users\\user\\source\\repos\\GyeongNam\\GyeongNam\\XProgram.cs",
+              "RelativeDocumentMoniker": "GyeongNam\\XProgram.cs",
+              "ToolTip": "C:\\Users\\user\\source\\repos\\GyeongNam\\GyeongNam\\XProgram.cs",
+              "RelativeToolTip": "GyeongNam\\XProgram.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABMAAAAlAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-21T10:09:22.287Z",
+              "IsPinned": true,
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "CommentPanel.cs [\uB514\uC790\uC778]",
+              "DocumentMoniker": "C:\\Users\\user\\source\\repos\\GyeongNam\\GyeongNam\\ChildPanel\\CommentPanel.cs",
+              "RelativeDocumentMoniker": "GyeongNam\\ChildPanel\\CommentPanel.cs",
+              "ToolTip": "C:\\Users\\user\\source\\repos\\GyeongNam\\GyeongNam\\ChildPanel\\CommentPanel.cs [\uB514\uC790\uC778]",
+              "RelativeToolTip": "GyeongNam\\ChildPanel\\CommentPanel.cs [\uB514\uC790\uC778]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-24T08:16:12.455Z",
+              "EditorCaption": " [\uB514\uC790\uC778]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "FinalVerfy.cs",
+              "DocumentMoniker": "C:\\Users\\user\\source\\repos\\GyeongNam\\GyeongNam\\FinalVerfy.cs",
+              "RelativeDocumentMoniker": "GyeongNam\\FinalVerfy.cs",
+              "ToolTip": "C:\\Users\\user\\source\\repos\\GyeongNam\\GyeongNam\\FinalVerfy.cs",
+              "RelativeToolTip": "GyeongNam\\FinalVerfy.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAAvAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-24T08:15:42.226Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Login.cs",
+              "DocumentMoniker": "C:\\Users\\user\\source\\repos\\GyeongNam\\GyeongNam\\Login.cs",
+              "RelativeDocumentMoniker": "GyeongNam\\Login.cs",
+              "ToolTip": "C:\\Users\\user\\source\\repos\\GyeongNam\\GyeongNam\\Login.cs",
+              "RelativeToolTip": "GyeongNam\\Login.cs",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAAABgAAAAEAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-24T08:06:12.905Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

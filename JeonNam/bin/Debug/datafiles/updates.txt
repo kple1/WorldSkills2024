@@ -1,0 +1,31 @@
+No	Title	Division
+1	녹색경제	뉴스
+2	원주민에게 권리와 인정을	뉴스
+3	청소년에 의한 청소년을 위한 교육 변화	뉴스
+4	빈곤을 모든 각도에서 바라보기	뉴스
+5	목표가 패션 산업에 중요한 이유	뉴스
+6	바다의 전사가 될 수 있는 세 가지 방법	뉴스
+7	글로벌 목표가 더 나은 재건을 위한 최선의 계획인 5가지 이유	뉴스
+8	국제 청소년의 날	뉴스
+9	글로벌 목표는 모두를 위한 것입니다	뉴스
+10	더 나은 세상을 위한 169가지 목표	뉴스
+11	yanolja	숙박
+12	Hana 1 Q	금융
+13	Where to?	여행
+14	yogiyo	쇼핑
+15	musinsa	쇼핑
+16	Threads	소셜
+17	CLASS101	취미
+18	Cookie Run	게임
+19	Yeogi Eottae	숙박
+20	toss	금융
+21	Tripadvisor	여행
+22	Honkai: Star Rail	게임
+23	reverse1999	게임
+24	Somssidang	취미
+25	BeReal	소셜
+26	coupang	쇼핑
+27	banksalad	금융
+28	interpark tour	숙박
+29	Skrr	소셜
+30	olive young	쇼핑
