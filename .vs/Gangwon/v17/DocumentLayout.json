@@ -3,8 +3,8 @@
   "WorkspaceRootPath": "C:\\Users\\user\\source\\repos\\Gangwon\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{5DCCA65C-EDE1-41F8-8DA9-50681C00070D}|Gangwon\\Gangwon.csproj|c:\\users\\user\\source\\repos\\gangwon\\gangwon\\.gitignore||{3B902123-F8A7-4915-9F01-361F908088D0}",
-      "RelativeMoniker": "D:0:0:{5DCCA65C-EDE1-41F8-8DA9-50681C00070D}|Gangwon\\Gangwon.csproj|solutionrelative:gangwon\\.gitignore||{3B902123-F8A7-4915-9F01-361F908088D0}"
+      "AbsoluteMoniker": "D:0:0:{5DCCA65C-EDE1-41F8-8DA9-50681C00070D}|Gangwon\\Gangwon.csproj|c:\\users\\user\\source\\repos\\gangwon\\gangwon\\login.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{5DCCA65C-EDE1-41F8-8DA9-50681C00070D}|Gangwon\\Gangwon.csproj|solutionrelative:gangwon\\login.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
     }
   ],
   "DocumentGroupContainers": [
@@ -27,15 +27,14 @@
             {
               "$type": "Document",
               "DocumentIndex": 0,
-              "Title": ".gitignore",
-              "DocumentMoniker": "C:\\Users\\user\\source\\repos\\Gangwon\\Gangwon\\.gitignore",
-              "RelativeDocumentMoniker": "Gangwon\\.gitignore",
-              "ToolTip": "C:\\Users\\user\\source\\repos\\Gangwon\\Gangwon\\.gitignore",
-              "RelativeToolTip": "Gangwon\\.gitignore",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAJEBAAA/AAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
-              "WhenOpened": "2024-11-18T12:45:55.295Z",
-              "EditorCaption": ""
+              "Title": "Login.cs [\uB514\uC790\uC778]",
+              "DocumentMoniker": "C:\\Users\\user\\source\\repos\\Gangwon\\Gangwon\\Login.cs",
+              "RelativeDocumentMoniker": "Gangwon\\Login.cs",
+              "ToolTip": "C:\\Users\\user\\source\\repos\\Gangwon\\Gangwon\\Login.cs [\uB514\uC790\uC778]",
+              "RelativeToolTip": "Gangwon\\Login.cs [\uB514\uC790\uC778]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-18T14:04:23.617Z",
+              "EditorCaption": " [\uB514\uC790\uC778]"
             }
           ]
         }

@@ -1,7 +1,12 @@
 {
   "Version": 1,
   "WorkspaceRootPath": "C:\\Users\\user\\source\\repos\\Gangwon\\",
-  "Documents": [],
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{5DCCA65C-EDE1-41F8-8DA9-50681C00070D}|Gangwon\\Gangwon.csproj|c:\\users\\user\\source\\repos\\gangwon\\gangwon\\login.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{5DCCA65C-EDE1-41F8-8DA9-50681C00070D}|Gangwon\\Gangwon.csproj|solutionrelative:gangwon\\login.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    }
+  ],
   "DocumentGroupContainers": [
     {
       "Orientation": 0,
@@ -9,7 +14,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": -1,
+          "SelectedChildIndex": 2,
           "Children": [
             {
               "$type": "Bookmark",
@@ -18,6 +23,18 @@
             {
               "$type": "Bookmark",
               "Name": "ST:128:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Login.cs [\uB514\uC790\uC778]",
+              "DocumentMoniker": "C:\\Users\\user\\source\\repos\\Gangwon\\Gangwon\\Login.cs",
+              "RelativeDocumentMoniker": "Gangwon\\Login.cs",
+              "ToolTip": "C:\\Users\\user\\source\\repos\\Gangwon\\Gangwon\\Login.cs [\uB514\uC790\uC778]",
+              "RelativeToolTip": "Gangwon\\Login.cs [\uB514\uC790\uC778]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-18T14:04:23.617Z",
+              "EditorCaption": " [\uB514\uC790\uC778]"
             }
           ]
         }
