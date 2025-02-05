@@ -1,0 +1,11 @@
+s_no	admission	name	id	pw	phone	d_no
+1	201415893	김현우	hyunwoo94	Password123	010-1234-5678	4
+2	201726341	이지연	jiyeon_88	SecurePass!456	010-2345-6789	4
+3	202311527	박성민	sungmin_park	MinPark@789	010-3456-7890	2
+4	201839642	최예린	yerin32	YerinLove123	010-4567-8901	6
+5	201622103	정도현	dohyun_95	Dohyun@456	010-5678-9012	4
+6	201427681	강지원	ji1won_	JwPass#789	010-6789-0123	1
+7	202410285	송하은	haeun.song	Songhaeun123	010-7890-1234	1
+8	201935810	장영호	young_ho	HoYoung!567	010-8901-2345	3
+9	202118763	김서연	seoyoung.kim	SeoY!234	010-9012-3456	2
+10	201747925	이준호	junho_lee	JunhoL#789	010-0123-4567	6
