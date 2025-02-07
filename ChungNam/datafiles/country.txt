@@ -1,0 +1,35 @@
+cno	cnoNO	CountryName	AccruedMileage	AirlineName	IATACode
+1	1	 남아프리카 공화국	840	 South African Airways 	SAA
+2	1	 나이지리아	840	 Arik Air     	ARA
+3	1	 케냐	570	 Kenya Airways 	KQA
+4	1	 이집트	660	 EgyptAir     	MSR
+5	1	 앙골라	960	 TAAG Angola Airlines 	DTI
+6	1	 에티오피아	720	 Ethiopian Airlines 	ETH
+7	2	 미국	840	 American Airlines 	AAL
+8	2	 캐나다	840	 Air Canada   	ACA
+9	2	 멕시코	930	 Aeromexico   	AMX
+10	2	 자메이카	1200	 Caribbean Airlines 	BWA
+11	2	 쿠바	1200	 Cubana de Aviacion 	CUB
+12	2	 과테말라	960	 Avianca Guatemala 	GUA
+13	3	 브라질	1560	 LATAM Brasil 	TAM
+14	3	 아르헨티나	1560	 Aerolineas Argentinas 	ARG
+15	3	 칠레	1560	 LATAM Chile  	LAN
+16	3	 콜롬비아	1200	 Avianca Colombia 	AVA
+17	3	 페루	1560	 LATAM Peru  	LPE
+18	3	 베네수엘라	1320	 Conviasa     	VCV
+19	4	 독일	660	 Lufthansa    	DLH
+20	4	 프랑스	660	 Air France   	AFR
+21	4	 영국	720	 British Airways 	BAW
+22	4	 이탈리아	720	 Alitalia     	AZA
+23	4	 스페인	720	 Iberia       	IBE
+24	4	 폴란드	600	 LOT Polish Airlines 	LOT
+25	5	 중국	150	 Air China    	CCA
+26	5	 인도	330	 Air India    	AIC
+27	5	 일본	105	 All Nippon Airways 	ANA
+28	5	 인도네시아	450	 Garuda Indonesia 	GIA
+29	5	 파키스탄	300	 Pakistan International Airlines 	PIA
+30	6	 호주	660	 Qantas       	QFA
+31	6	 뉴질랜드	720	 Air New Zealand 	ANZ
+32	6	 파푸아뉴기니	720	 Air Niugini  	ANG
+33	6	 피지	720	 Fiji Airways 	FJI
+34	6	 동티모르	330	 Air Timor    	ATM
