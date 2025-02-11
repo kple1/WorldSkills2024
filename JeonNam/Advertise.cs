@@ -11,40 +11,57 @@ using System.Windows.Forms;
 
 namespace JeonNam
 {
-    public partial class Advertise : Form
+    public partial class News : Form
     {
-
-        Timer timer;
-        int count = 5;
-        public Advertise(string title, string logo, string division, string gif)
+        public bool getCoin = true;
+        public News(string title, string path)
         {
             InitializeComponent();
-            Name = title;
-            pictureBox1.Image = Image.FromFile(logo);
-            label1.Text = title;
-            label2.Text = division;
-            pictureBox2.Image = Image.FromFile(gif);
+            panel1.MouseWheel += Panel1_MouseWheel;
 
-            timer = new Timer();
-            timer.Interval = 1000;
-            timer.Tick += (s, e) =>
+            Name = title;
+            label1.Text = title;
+            label2.Text = "뉴스";
+            pictureBox1.Image = Image.FromFile(path);
+        }
+
+        private void Panel1_MouseWheel(object sender, MouseEventArgs e)
+        {
+            CheckScrollPosition();
+        }
+
+        private void panel1_Scroll(object sender, ScrollEventArgs e)
+        {
+            if (e.Type == ScrollEventType.EndScroll)
             {
-                if (count == 0)
+                CheckScrollPosition();
+            }
+        }
+
+        private void panel1_MouseWheel(object sender, MouseEventArgs e)
+        {
+            CheckScrollPosition();
+        }
+
+        private void CheckScrollPosition()
+        {
+            var verticalScroll = panel1.VerticalScroll;
+
+            if (getCoin) 
+            {
+                if (verticalScroll.Value + verticalScroll.LargeChange >= verticalScroll.Maximum)
                 {
-                    timer.Stop();
                     if (Login.no == 0)
                     {
-                        Msg.fail("로그인을 하지 않아 적립금을 받을 수 없습니다.");
+                        Util.fail("로그인을 하지 않아 적립금을 받을 수 없습니다.");
                     }
                     else
                     {
-                        new Coin(1, 20, this).Show();
+                        new Coin(1, 10, this).Show();
+                        getCoin = false;
                     }
                 }
-                --count;
-                label3.Text = count.ToString();
-            };
-            timer.Start();
+            }
         }
     }
 }
